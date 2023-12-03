@@ -35,6 +35,8 @@ List<Game> games = new()
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+app.MapGet("/games", () => games);
+app.MapGet("/games/{id}", (int id) => games.Find(game => game.Id == id));
+
 
 app.Run();
