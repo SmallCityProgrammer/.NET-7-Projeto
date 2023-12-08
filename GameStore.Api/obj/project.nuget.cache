@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jbUD06NkSjL8iL4S9N6vlm+DojpfXMvjxJDlv9MTITbiOg4S3bq04NA7LNYjFAMY8gVeCypt9AMb32f9iGfPpA==",
+  "dgSpecHash": "L7QjRx2uLkPcyIvNrgVObhJ28ls2AMIGmXVEXB5ouDouATQWkJJ5PmVJ7uG2iDP2GmKaAhs38DAvKfjF8M6qgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos JS\\Back end\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

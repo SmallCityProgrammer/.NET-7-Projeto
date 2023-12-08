@@ -23,3 +23,28 @@ C:\Users\Eliezer Castro\Desktop\Cursos JS\Back end\AspNet Core\GameStore\gamesto
 C:\Users\Eliezer Castro\Desktop\Cursos JS\Back end\AspNet Core\GameStore\gamestore.api\obj\Debug\net7.0\GameStore.Api.pdb
 C:\Users\Eliezer Castro\Desktop\Cursos JS\Back end\AspNet Core\GameStore\gamestore.api\obj\Debug\net7.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\Eliezer Castro\Desktop\Cursos JS\Back end\AspNet Core\GameStore\gamestore.api\obj\Debug\net7.0\ref\GameStore.Api.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\bin\Debug\net7.0\GameStore.Api.exe
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\bin\Debug\net7.0\GameStore.Api.deps.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\bin\Debug\net7.0\GameStore.Api.runtimeconfig.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\bin\Debug\net7.0\GameStore.Api.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\bin\Debug\net7.0\GameStore.Api.pdb
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.AssemblyInfoInputs.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.AssemblyInfo.cs
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\staticwebassets\msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.GameStore.Api.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Api.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GameStore.Api.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\scopedcss\bundle\GameStore.Api.styles.css
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\refint\GameStore.Api.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.pdb
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.genruntimeconfig.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\GameStore\GameStore.Api\obj\Debug\net7.0\ref\GameStore.Api.dll

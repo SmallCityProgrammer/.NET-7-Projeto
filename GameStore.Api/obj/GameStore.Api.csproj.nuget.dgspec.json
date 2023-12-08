@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos JS\\Back end\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos JS\\Back end\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos JS\\Back end\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos JS\\Back end\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\AspNet Core\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\Eliezer Castro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos JS\\Back end\\AspNet Core\\GameStore\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\AspNet Core\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eliezer Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
